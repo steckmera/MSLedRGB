@@ -1,0 +1,17 @@
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+MSLedRGB	KEYWORD1
+ledRGB	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+on	KEYWORD2
+off	KEYWORD2
+colorR	KEYWORD2
+colorG	KEYWORD2
+colorB	KEYWORD2
+
